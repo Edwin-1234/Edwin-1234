@@ -2,6 +2,7 @@
 # 💻 Tech Stack & Skills  
 
 ### Programming Languages:
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,7 +22,9 @@
 ### Hardware & Low-Level Programming:
 ![Verilog](https://img.shields.io/badge/Verilog-8B0000?style=for-the-badge&logo=verilog&logoColor=white)
 ![8086 Assembly](https://img.shields.io/badge/8086%20Assembly-0078D4?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM%20Programming-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![MASM](https://img.shields.io/badge/MASM-4B0082?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+
 
 # My GitHub Stats
 
