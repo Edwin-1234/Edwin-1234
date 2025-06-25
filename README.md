@@ -31,7 +31,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Edwin-1234&color=blue)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin-1234&theme=radical&hide_border=false&layout=compact)![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edwin-1234&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Edwin-1234&theme=radical&hide_border=false)<br/>
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Edwin-1234&theme=onedark&no-frame=true&row=1&column=5)
 ## Profile Summary
